@@ -7,9 +7,9 @@
 "Status": "life cycle",
 "Author":	"QA manager",
 "Assigned To":	"IT manager",
-"okrujenie": "windows 10, google chrome 8.001".
+"okrujenie": "windows 10, google chrome 8.001",
 "Steps to Reproduce":	"najimaem na knopky pokypka",
 "Result":	"vikidivaet iz caita"
 "Expected Result":	"pokypaecca tovar",
-"Attachment":	"skrinchot".
+"Attachment":	"skrinchot"
 }
